@@ -8,3 +8,14 @@ To Run this execute below line at the project root
 After running the application please use below url to test API
 
 `http://localhost:8080/swagger-ui.html`
+
+Data input to be sent in the below JSON format
+
+`[
+ 	{
+ 		"expenditure": "150"
+ 	},
+ 	{
+ 		"expenditure": "120"
+ 	}
+ ]`
